@@ -40,6 +40,7 @@ cpu_temp_value = 0.0
 with open("quotes2.txt") as moodfile:
     moodlines = moodfile.readlines()
     
+#modify this path to reflect your actual user folder)    
 with open("/home/osrde/duino-coin/Duino-Coin AVR Miner 4.0/Settings.cfg") as config_file:
     lines = config_file.readlines()
     for line in lines:
