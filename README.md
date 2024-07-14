@@ -37,7 +37,7 @@ With this duinogotchi wil use the duco rest API (v3) (details available here: ht
 ## How to use Duinogotchi
 
 ### Requirements
-  the following are need to use duinogotchi:
+  the following are needed to use duinogotchi:
       epd2in13_V4.py (included in /app/)
       epdconfig.py (included in /app/)
       time
@@ -46,6 +46,7 @@ With this duinogotchi wil use the duco rest API (v3) (details available here: ht
       cfscrape (pip install cfscrape) I had to use this to connect to the API otherwise I was blocked by cloudfare.
       faces.py (included in /app/)
       quotes2.txt (incluced in /app/)
+      DejaVuSansMono.ttf (font file allowing the correct display of the mood faces)
       
 ### things that you need to change in the einkdashboard.py file
   in einkdashboard.py, I could not manage yet to get the script to look automatically for the duino-coin folder so you need to chnage the path for your actual where the AVR_Miner.py is located.
