@@ -20,4 +20,6 @@ go though all steps for pyhton and test your screen.
 This ensure that all necessary files and python environement is working.
 
 ## What's Duinogotchi
-Duinogotchi is
+Duinogotchi is virtual pet lookalike interface dedicated to display important information of your mining set.
+
+![duinogotchiUI](https://github.com/user-attachments/assets/b75ee297-3f00-49ce-ba53-ee0f24f906e7)
